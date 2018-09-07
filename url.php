@@ -11,6 +11,7 @@
  */
 define('PMA_MINIMUM_COMMON', true);
 require_once './libraries/common.inc.php';
+
 /**
  * JavaScript escaping.
  */
